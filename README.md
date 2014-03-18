@@ -1,0 +1,1 @@
+I would be amazed if you find this interesting.  I'm just going to do some euler problems and solve them in java. 
